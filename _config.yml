@@ -3,5 +3,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+include:
+  - LICENSE.md
 theme: jekyll-theme-cayman
 title: Wafu’s project list
