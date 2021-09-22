@@ -1,1 +1,1 @@
-[License](LICENSE.md)
+[License](LICENSE.html)
