@@ -1,7 +1,7 @@
-title: Wafu’s project list
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
 theme: jekyll-theme-cayman
+title: Wafu’s project list
