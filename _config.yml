@@ -4,7 +4,4 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-include:
-  - README.md
-  - LICENSE.md
 title: Wafu’s project list
