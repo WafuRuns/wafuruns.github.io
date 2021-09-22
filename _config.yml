@@ -4,6 +4,8 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+titles_from_headings:
+  enabled: false
 include:
   - README.md
   - LICENSE.md
