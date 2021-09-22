@@ -1,1 +1,3 @@
-[License](LICENSE.html)
+*About me
+*My projects
+*[License](LICENSE.html)
