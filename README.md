@@ -157,6 +157,8 @@
 ## [ASLScripts](https://github.com/WafuRuns/ASLScripts)
 
 * LiveSplit scripts for auto splitting and load removal for several games
+* Used technologies:
+    * ASL (C# with memory injection API)
 * CC0 License
 
 # Unreleased projects
