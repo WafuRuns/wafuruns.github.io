@@ -1,4 +1,39 @@
 # About me
+
+## Who am I?
+
+* Easy going person with focus on community
+    * I consider it my duty to fulfill communities’ wishes without dividing the community
+    * Fair behaviour is the key
+* Developer (see [my projects](#my-projects))
+* Staff of [Czechoslovak Marathon](https://czechoslovak-marathon.cz) (organizing and tech)
+    * Biannual 3 day speedrun marathon
+    * Monthly 1 day minimarathons
+    * Usually for the benefit of a charity if we have the option
+
+## Things I like
+
+* Mutual and fair feedback
+    * We don’t need to sugarcoat things, honest opinion is a great way to make progress
+* Projects I can relate to or are for a good cause
+    * Healthcare / Quality of Life
+    * Projects for children
+    * Charity projects
+    * Tools for creators
+    * Providing information (news, journalism)
+* Walks, hiking, badminton, games
+
+## Things I dislike
+
+* Arrogant people
+    * We all have to listen to what people have to say and learn from that
+* No respect
+    * Comfortable environment is important
+    * Give everyone an equal chance
+* Misgendering
+    * I won’t be angry, but at least try to call me what I wish to be called, it doesn’t take that much effort and doesn’t hurt you in any way
+* Travelling
+
 # My projects
 
 ## [nodecg-czskm](https://github.com/WafuRuns/nodecg-czskm)
