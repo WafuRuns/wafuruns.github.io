@@ -49,7 +49,7 @@
 * Provides API for WebSocket communication with livestreaming software
 * Both of these APIs are protected with a key
 * Used technologies:
-    * NodeJS
+    * Node.js
     * NodeCG
     * Express
     * p5.js
@@ -117,6 +117,7 @@
 * Provides API for ending a player’s run (client)
 * Might contain graphics/dashboard in the future
 * Used technologies:
+    * Node.js
     * NodeCG
     * Express
 * Deployed on pm2, can run on Docker
@@ -195,6 +196,15 @@
 * Used technologies:
     * ASL (C# with memory injection API)
 * CC0 License
+
+## [Herpeto Hunter CZ](https://play.google.com/store/apps/details?id=cz.osu.biorecords.HerpetoHunter)
+
+* Mobile application for recognizing amphibians and reptiles of Czechia
+* Collaboration university project
+* Used technologies:
+    * Node.js
+    * NativeScript
+    * Firebase
 
 # Unreleased projects
 
