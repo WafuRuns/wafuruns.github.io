@@ -206,12 +206,20 @@
     * NativeScript
     * Firebase
 
+## [czskm-pbbot](https://github.com/WafuRuns/czskm-pbbot)
+
+* Discord bot for fetching personal bests from speedrun.com API
+* Primarily for Czechoslovak Marathon Discord server
+* Used technologies:
+   * Rust
+   * serenity
+   * serde
+   * rusqlite
+* Deployed on pm2
+* CC0 License
+
 # Unreleased projects
 
-* Czechoslovak Marathon Discord bot
-    * Currently deployed
-    * Needs Docker
-    * speedrun.com API needs to improve for this to be fully functioning again
 * Website for picking a gender neutral name
     * Currently WIP
     * Includes rating the names by their femininity/masculinity (preferably by Czech speaking people)
